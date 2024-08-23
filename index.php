@@ -1,2 +1,2 @@
 <?php 
- echo "index nè";
+ echo "index nè sửa ";
